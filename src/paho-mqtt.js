@@ -81,7 +81,7 @@ function onMessageArrived(message) {
  */
 
 require("@nativescript/core/globals");
-require("nativescript-websockets");
+require("@master.technology/websockets");
  
 /* jshint shadow:true */
 (function ExportLibrary(root, factory) {

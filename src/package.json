@@ -59,7 +59,7 @@
         "@nativescript/core": ">=7.0.0"
     },
     "dependencies": {
-        "nativescript-websockets": "^1.5.6"
+        "@master.technology/websockets": "^2.0.3"
     },
     "bootstrapper": "nativescript-plugin-seed"
 }
